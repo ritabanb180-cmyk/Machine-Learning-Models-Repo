@@ -9,6 +9,8 @@ A comprehensive repository for all the machine learning model training notebooks
 •Pandas 
 •Numpy 
 •Matplotlib 
+•TensorFlow
+•Kaggle(Datasets)
 
 ## Contributing
 
